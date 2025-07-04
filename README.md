@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Aaiz Mohsin</h1>
-<h3 align="center">Final Year AI Student at GIKI | TEDx Coordinator | Ex-AIESECer | Passionate about Vision, Voice & Real-World AI 🚀</h3>
+<h3 align="center">Final Year AI Student at GIKI | TEDx Coordinator | Ex-AIESECer | Passionate about Vision, Voice & Real-World AI </h3>
 
 ---
 
