@@ -16,17 +16,7 @@ From building a smart shopping assistant powered by Gemini to real-time navigati
 ---
 
 ### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv5%2Fv8-Object%20Detection-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/API-Google%20Maps-blue)
-![Gemini API](https://img.shields.io/badge/AI-Google%20Gemini-orange)
-![Flask](https://img.shields.io/badge/Backend-Flask-black)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Django](https://img.shields.io/badge/Web-Django-092E20)
+<p align="center"> <!-- Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <!-- Libraries & Frameworks --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/MobileNetV2-3B7EBF?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv5/v8-00FFFF?style=for-the-badge&logo=openai&logoColor=white"/> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <!-- APIs & Servic
 
 ---
 
