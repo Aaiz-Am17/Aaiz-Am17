@@ -14,7 +14,7 @@ I specialize in building **vision-based systems**, **intelligent user interfaces
 
 🔍 **What I love working on:**
 
-- 🧠 Real-time computer vision with custom models (YOLO, MobileNetV2)
+- 🧠 A Smart Vision + Voice AR Navigation app as my FYP
 - 🎙 Voice-enabled and multimodal AI interfaces
 - 🚀 Turning ideas into complete, usable apps (Python + FastAPI + Streamlit + Flutter)
 
