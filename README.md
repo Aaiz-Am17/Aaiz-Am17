@@ -1,8 +1,6 @@
 <h1 align="center">Hello World, 👋, I'm Aaiz Mohsin</h1>
 <h3 align="center">Final Year AI Studen | Vision Systems | Voice Interfaces</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaiz-am17&label=Profile%20views&color=0e75b6&style=flat" alt="aaiz-am17" /> </p>
-
 ---
 
 ### 🧠 About Me
