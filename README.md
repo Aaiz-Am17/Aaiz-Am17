@@ -1,8 +1,7 @@
-<h3 align="center">👋 Hello World, I'm <strong>Aaiz Mohsin</strong></h3>
+<h2 align="center">🧠 Aaiz Mohsin — AI | Vision | Voice</h2>
 <p align="center">
-  🎓 Final Year AI Student @ <strong>GIKI</strong> <br>
-  🤖 Building with Vision • Voice • Real-Time AI <br>
-  🌍 Ex-AIESECer | 🧠 AI Enthusiast
+  🎓 Final Year @ GIKI | 🎤 TEDx Coordinator | 🌍 Ex-AIESECer <br>
+  🛠 Turning deep learning ideas into real-world products.
 </p>
 
 ---
