@@ -19,7 +19,7 @@ I specialize in building **vision-based systems**, **intelligent user interfaces
 
 ---
 
-### 🌐 Socials
+### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaiz-mohsin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaiz._.mohsin)
@@ -83,13 +83,4 @@ I specialize in building **vision-based systems**, **intelligent user interfaces
 </p>
 
 ---
-
-### 📬 Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/aaiz-mohsin)
-- 📧 Email: aaiz.mohsin1@gmail.com
-- 🌐 Portfolio (Coming Soon)
-
----
-
 ![](https://komarev.com/ghpvc/?username=Aaiz-Am17&color=brightgreen&style=flat)
