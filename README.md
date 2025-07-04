@@ -1,8 +1,7 @@
-<h2 align="center">🧠 Aaiz Mohsin — AI | Vision | Voice</h2>
-<p align="center">
-  🎓 Final Year @ GIKI | 🎤 TEDx Coordinator | 🌍 Ex-AIESECer <br>
-  🛠 Turning deep learning ideas into real-world products.
-</p>
+<h1 align="center">Hello World, 👋, I'm Aaiz Mohsin</h1>
+<h3 align="center">Final Year AI Studen | Vision Systems | Voice Interfaces</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaiz-am17&label=Profile%20views&color=0e75b6&style=flat" alt="aaiz-am17" /> </p>
 
 ---
 
