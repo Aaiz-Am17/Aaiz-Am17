@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, 👋, I'm Aaiz Mohsin</h1>
-<h3 align="center">Final Year AI Studen | Vision Systems | Voice Interfaces</h3>
+<h3 align="center">Final Year AI Student | Vision Systems | Voice Interfaces</h3>
 
 ---
 
