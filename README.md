@@ -76,7 +76,7 @@ I specialize in building **vision-based systems**, **intelligent user interfaces
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| | [**MSSQL Gemini Agent**](https://github.com/Aaiz-Am17/Mssql-Gemini-Agent-Chatbot) | Natural Language Analytics over SQL using LangGraph ReAct agents and secure reasoning. | LangGraph, Gemini, FastAPI  |
+|  [**MSSQL Gemini Agent**](https://github.com/Aaiz-Am17/Mssql-Gemini-Agent-Chatbot) | Natural Language Analytics over SQL using LangGraph ReAct agents and secure reasoning. | LangGraph, Gemini, FastAPI  |
 | [SmartMap-GIKI 🚶‍♂️](https://github.com/Aaiz-Am17/SmartMap-GIKI) | Vision + Voice navigation using MobileNetV2 + Google Maps + gTTS | CV, NLP, Streamlit |
 | [YOLO Attendance App 🧑‍🏫](https://github.com/Aaiz-Am17/Yolo-Attendance-App) | Detect & classify faces to auto-mark attendance | YOLOv5, YOLOv8, OpenCV |
 | [Smart Shopping Assistant 🛒](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant) | Predict appliance prices & generate Gemini-powered AI suggestions | XGBoost, Gemini API |
