@@ -1,22 +1,45 @@
   <h1 align="center">Hello World, 👋, I'm Aaiz Mohsin</h1>
-<h3 align="center">Final Year AI Student | Vision Systems | Voice Interfaces</h3>
+
+<h3 align="center">
+AI Engineer | Computer Vision | Agentic AI Systems | LangGraph, FastAPI & LLM Applications
+</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a final year Artificial Intelligence student at **GIKI**, driven by curiosity and the joy of building things that *actually work*.
+I'm an AI engineer focused on building practical intelligent systems across 
+computer vision, agentic AI workflows, and real-world ML applications.
 
-I specialize in building **vision-based systems**, **intelligent user interfaces**, and **real-time ML pipelines**. My projects are fueled by a mix of creativity, code, and caffeine — whether it’s a smart shopping assistant powered by Gemini or a voice-guided campus navigator using nothing but a camera.
+My work combines backend AI engineering, multimodal interfaces, and production-style 
+AI orchestration — ranging from vision-based localization systems to LLM-powered 
+analytics platforms and autonomous AI workflows.
 
-🔍 **What I love working on:**
+I enjoy building systems that are not only technically strong, but also usable, scalable, 
+and grounded in real engineering problems.
 
-- 🧠 A Smart Vision + Voice AR Navigation app as my FYP
-- 🎙 Voice-enabled and multimodal AI interfaces
-- 🚀 Turning ideas into complete, usable apps (Python + FastAPI + Streamlit + Flutter)
+---
 
-🛠 I enjoy messy prototypes, tight deadlines, and that moment when a neural net finally gets it right.
+### 🔍 Areas I Enjoy Working In
 
+- 👁️ Computer Vision & Vision-Based Localization
+- 🤖 Agentic AI Systems & Multi-Agent Workflows
+- 🧠 LLM Applications using LangChain & LangGraph
+- ⚡ FastAPI-Based AI Backends & APIs
+- 🎙️ Voice & Multimodal AI Interfaces
+- 📊 AI Automation, OCR & Intelligent Pipelines
+
+---
+
+### 🚀 Current Focus
+
+- Building production-style Agentic AI systems
+- Exploring scalable LangGraph architectures
+- Developing AI-powered automation workflows
+- Improving real-time computer vision pipelines
+- Working on AR-oriented navigation & mapping systems
+
+---
 ---
 
 ### 📬 Connect With Me
