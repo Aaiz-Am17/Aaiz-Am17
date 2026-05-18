@@ -99,11 +99,12 @@ and grounded in real engineering problems.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-|  [**MSSQL Gemini Agent**](https://github.com/Aaiz-Am17/Mssql-Gemini-Agent-Chatbot) | Natural Language Analytics over SQL using LangGraph ReAct agents and secure reasoning. | LangGraph, Gemini, FastAPI  |
-| [SmartMap-GIKI 🚶‍♂️](https://github.com/Aaiz-Am17/SmartMap-GIKI) | Vision + Voice navigation using MobileNetV2 + Google Maps + gTTS | CV, NLP, Streamlit |
-| [YOLO Attendance App 🧑‍🏫](https://github.com/Aaiz-Am17/Yolo-Attendance-App) | Detect & classify faces to auto-mark attendance | YOLOv5, YOLOv8, OpenCV |
-| [Smart Shopping Assistant 🛒](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant) | Predict appliance prices & generate Gemini-powered AI suggestions | XGBoost, Gemini API |
-| [Drowsiness Detection ⚠️](https://github.com/Aaiz-Am17/drowsiness-detection-system) | Detect closed eyes/yawns using dlib landmarks & alarm triggers | OpenCV, Dlib, Tkinter |
+| [**Industrial Agentic AutoML Platform 🤖**](https://github.com/Aaiz-Am17/self_improving_ai_agent) | Multi-agent AI platform for dataset inspection, preprocessing reasoning, ML workflow orchestration, and RAG-powered decision support using LangGraph. | LangGraph, LangChain, FastAPI, RAG, Streamlit |
+| [**Vision-Based Navigation & Mapping System 🗺️**](https://github.com/Aaiz-Am17/FYP-Mapmate) | Camera-driven localization and navigation system for GPS-denied environments using computer vision, depth estimation, and AR-oriented guidance workflows. | OpenCV, SfM, Depth Estimation, Python |
+| [**MSSQL Gemini Agent Chatbot 🧠**](https://github.com/Aaiz-Am17/Mssql-Gemini-Agent-Chatbot) | LLM-powered analytics assistant enabling natural language interaction with SQL databases using secure agentic workflows. | LangGraph, Gemini API, FastAPI, MSSQL |
+| [**AI-Powered Attendance System 👁️**](https://github.com/Aaiz-Am17/Yolo-Attendance-App) | Real-time AI attendance system using YOLO-based face detection and automated reporting pipelines. | YOLOv5, YOLOv8, OpenCV, Streamlit |
+| [**Smart Shopping Assistant 🛒**](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant) | Machine learning recommendation platform with ensemble models and Gemini-powered semantic reasoning for personalized product suggestions. | XGBoost, Scikit-Learn, Gemini API |
+| [**Driver Drowsiness Detection System ⚠️**](https://github.com/Aaiz-Am17/drowsiness-detection-system) | Real-time driver fatigue detection system using facial landmarks, blink analysis, and alert-trigger mechanisms. | OpenCV, Dlib, Tkinter |
 
 ---
 
